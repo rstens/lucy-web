@@ -2,7 +2,7 @@
 
 https://bcdevexchange.org/projects/prj-invasive-species
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bcgov_lucy-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=bcgov_lucy-web) ![ZAP Baseline Scan](https://github.com/rstens/lucy-web/workflows/ZAP%20Baseline%20Scan/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bcgov_lucy-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=bcgov_lucy-web) 
 
 ## Introduction
 
